@@ -1,0 +1,58 @@
+.weight {
+  font-size: 55px;
+  font-weight: 700;
+}
+button {
+  border: none;
+  width: 10rem;
+  height: 3rem;
+  font-weight: 600;
+  background-color: #e8b404;
+}
+
+.can {
+  background-color: rgb(232, 235, 239);
+}
+
+.round {
+  background-color: white;
+  clip-path: circle();
+  margin-left: 80px;
+  padding: 15px;
+  font-size: 55px;
+  padding-bottom: 25px;
+}
+.color {
+  /* background-color: #e8b404; */
+  border-width: 70px;
+  margin-bottom: 100px;
+}
+.pony {
+  padding-top: 35px;
+}
+
+.carden {
+  padding: 40px;
+}
+
+.carden button {
+  margin-top: 20px;
+}
+.concard {
+  border: 2px solid #b5a15f;
+  letter-spacing: 0.5px;
+}
+.desc p {
+  font-style: italic;
+}
+
+.carden p {
+  font-style: italic;
+}
+.classy {
+  margin-bottom: 300px;
+}
+
+/* .navbar-toggler {
+  padding-left: 850px;
+} */
