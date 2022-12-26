@@ -8,8 +8,6 @@ export const Mainpage = () => {
       <div className="container">
         <div className="row align-items-center">
           <div className="col-6">
-            {/* <div className='w-25 '> */}
-
             <img
               className="w-100"
               alt=""

@@ -2,34 +2,9 @@ import React from "react";
 
 export const Navbar = () => {
   return (
-    //     <div className>
-    //       <nav className=" navbar navbar-expand bg-white">
-    //         <div className="px-5 py-2">
-    //           <img
-    //             alt=""
-    //             src="//capp.nicepage.com/34e28f3ca3d0db4ae81dc8a781902ebadcdd744e/images/default-logo.png"
-    //             class="u-logo-image u-logo-image-1"
-    //           />
-    //         </div>
-
-    //         <div class="input-group ">
-    //           <div class=" d-flex ms-auto">
-    //             <input type="search" placeholder="Search" class="form-control" />
-    //             <label class="align items-center" for="form1"></label>
-    //           </div>
-    //           <button type="button" class="btn btn-white">
-    //             {/* <i class="fas fa-search"></i> */}
-    //           </button>
-    //         </div>
-    //       </nav>
-    //     </div>
-    //   );
-    // };
     <div>
       <div class="collapse bg-dark" id="navbarToggleExternalContent">
         <div class="bg-dark">
-          {/* <h5 class="text-white h4">Collapsed content</h5> */}
-
           <p class="text-muted">page1</p>
           <p class="text-muted">page2</p>
           <p class="text-muted">page3</p>

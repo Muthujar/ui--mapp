@@ -1,8 +1,3 @@
-// import "./App.css";
-// import Header from "./project/Header";
-// import Mainpage from "./project/mainpage";
-// import Navbar  from "./project/navbar";
-// import Card from "./project/card";
 import React from "react";
 import { Mainpage } from "./task2/mainpage";
 import { Navbar } from "./task2/navbar";
